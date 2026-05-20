@@ -19,7 +19,11 @@ This project is a Power BI dashboard created for sales analysis and business ins
 - SalesInsightDashboard.pbix
 
 ## Dashboard Preview
-(Add screenshots here later)
+<img width="1913" height="1013" alt="image" src="https://github.com/user-attachments/assets/56fbbfd0-e39e-4273-933e-e9a66ad6cae9" />
+
+<img width="1912" height="1015" alt="image" src="https://github.com/user-attachments/assets/f2128346-d1dc-40c8-b3ab-02e7ea707e52" />
+
+
 
 ## Author
 CHALLURI RANESH
